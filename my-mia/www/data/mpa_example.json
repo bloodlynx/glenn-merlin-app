@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Animation",
+    "url": "/views/animation/index.html",
+    "isModal": false
+  },
+  {
+    "id": 2,
+    "name": "Open modal window",
+    "url": "/views/modal/index.html",
+    "isModal": true
+  }
+]

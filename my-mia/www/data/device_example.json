@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "name": "Camera and Photos",
+    "url": "/views/camera/index.html",
+    "isModal": false
+  }
+]

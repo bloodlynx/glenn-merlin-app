@@ -1,0 +1,7 @@
+<div class="sidemenu" ng-controller="IndexCtrl">
+    <ul class="list">
+    <li class="item" ng-click="switchMenu(item)" ng-class="{ active: isActive(item) }" ng-repeat="item in sidemenu">
+      {{ item.name }}
+    </li>
+    </ul>
+</div>
